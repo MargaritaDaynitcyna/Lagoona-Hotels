@@ -1,5 +1,5 @@
 # Lagoona-Hotels
-View [here](https://margaritadaynitcyna.github.io/Lagoona-Hotels/)
+View [here](https://margaritadaynitcyna.github.io/lagoona-hotels/)
 
 - Simple one-page layout without adaptive.
 
